@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 306ae99e15186184fb9be9c46d99ba64
+timeCreated: 1482489964
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body_GEO
+    100002: Body_GRP
+    100004: Cabin
+    100006: CabinBody_GEO
+    100008: CabinTrim_GEO
+    100010: //RootNode
+    100012: EngineCover_GEO
+    100014: EngineCover_GRP
+    100016: Glass_GEO
+    100018: Interior
+    100020: Metal_GEO
+    100022: Misc_GRP
+    100024: polySurface107
+    100026: polySurface108
+    100028: polySurface109
+    100030: polySurface110
+    100032: polySurface111
+    100034: polySurface112
+    100036: polySurface113
+    100038: polySurface114
+    100040: polySurface115
+    100042: polySurface116
+    100044: polySurface117
+    100046: polySurface118
+    100048: polySurface119
+    100050: polySurface120
+    100052: polySurface121
+    100054: polySurface122
+    100056: polySurface123
+    100058: polySurface7
+    100060: Body_01_GEO
+    100062: Body_02_GEO
+    400000: Body_GEO
+    400002: Body_GRP
+    400004: Cabin
+    400006: CabinBody_GEO
+    400008: CabinTrim_GEO
+    400010: //RootNode
+    400012: EngineCover_GEO
+    400014: EngineCover_GRP
+    400016: Glass_GEO
+    400018: Interior
+    400020: Metal_GEO
+    400022: Misc_GRP
+    400024: polySurface107
+    400026: polySurface108
+    400028: polySurface109
+    400030: polySurface110
+    400032: polySurface111
+    400034: polySurface112
+    400036: polySurface113
+    400038: polySurface114
+    400040: polySurface115
+    400042: polySurface116
+    400044: polySurface117
+    400046: polySurface118
+    400048: polySurface119
+    400050: polySurface120
+    400052: polySurface121
+    400054: polySurface122
+    400056: polySurface123
+    400058: polySurface7
+    400060: Body_01_GEO
+    400062: Body_02_GEO
+    2300000: Body_GEO
+    2300002: CabinBody_GEO
+    2300004: CabinTrim_GEO
+    2300006: EngineCover_GEO
+    2300008: Glass_GEO
+    2300010: Metal_GEO
+    2300012: polySurface107
+    2300014: polySurface108
+    2300016: polySurface109
+    2300018: polySurface110
+    2300020: polySurface111
+    2300022: polySurface112
+    2300024: polySurface113
+    2300026: polySurface114
+    2300028: polySurface115
+    2300030: polySurface116
+    2300032: polySurface117
+    2300034: polySurface118
+    2300036: polySurface119
+    2300038: polySurface120
+    2300040: polySurface121
+    2300042: polySurface122
+    2300044: polySurface123
+    2300046: polySurface7
+    2300048: Body_01_GEO
+    2300050: Body_02_GEO
+    3300000: Body_GEO
+    3300002: CabinBody_GEO
+    3300004: CabinTrim_GEO
+    3300006: EngineCover_GEO
+    3300008: Glass_GEO
+    3300010: Metal_GEO
+    3300012: polySurface107
+    3300014: polySurface108
+    3300016: polySurface109
+    3300018: polySurface110
+    3300020: polySurface111
+    3300022: polySurface112
+    3300024: polySurface113
+    3300026: polySurface114
+    3300028: polySurface115
+    3300030: polySurface116
+    3300032: polySurface117
+    3300034: polySurface118
+    3300036: polySurface119
+    3300038: polySurface120
+    3300040: polySurface121
+    3300042: polySurface122
+    3300044: polySurface123
+    3300046: polySurface7
+    3300048: Body_01_GEO
+    3300050: Body_02_GEO
+    4300000: Body_GEO
+    4300002: Glass_GEO
+    4300004: CabinBody_GEO
+    4300006: CabinTrim_GEO
+    4300008: polySurface7
+    4300010: polySurface107
+    4300012: polySurface108
+    4300014: polySurface112
+    4300016: polySurface113
+    4300018: polySurface117
+    4300020: polySurface109
+    4300022: polySurface110
+    4300024: polySurface111
+    4300026: polySurface118
+    4300028: polySurface119
+    4300030: polySurface120
+    4300032: polySurface121
+    4300034: polySurface122
+    4300036: polySurface123
+    4300038: polySurface114
+    4300040: polySurface115
+    4300042: polySurface116
+    4300044: EngineCover_GEO
+    4300046: Metal_GEO
+    4300048: Body_01_GEO
+    4300050: Body_02_GEO
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
